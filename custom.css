@@ -1,0 +1,44 @@
+
+.navbar {
+  background-color: #30336d;
+}
+
+/*
+  dark-blue: 30336d
+  light-blue: 25aae1
+  light-green: 8dc63f
+  orange: f1592a
+*/
+
+.jumbotron {
+  background-color: #8dc63f;
+  margin-top: 50px;
+  color: #f7f7f7;
+}
+
+.btn-primary {
+  background-color: #f1592a;
+  border-color: #d75127;
+}
+
+.navbar-inverse .navbar-link {
+  color: #f7f7f7;
+}
+
+h2 {
+  color: #30336d;
+}
+
+p {
+  color: ##656565;
+}
+
+footer {
+  background-color: #25aae1;
+  color: #f7f7f7;
+  padding: 30px;
+}
+
+.btn-default {
+
+}
