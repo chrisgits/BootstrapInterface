@@ -1,6 +1,6 @@
-
 .navbar {
   background-color: #30336d;
+  line-height: 50px;
 }
 
 /*
@@ -9,6 +9,20 @@
   light-green: 8dc63f
   orange: f1592a
 */
+
+.logo img {
+  display: inline-block;
+  width: 45px;
+  padding-left: 10px;
+}
+
+.logo h3 {
+  padding-right: 10px;
+}
+
+.logo {
+  line-height: 55px;
+}
 
 .jumbotron {
   background-color: #8dc63f;
